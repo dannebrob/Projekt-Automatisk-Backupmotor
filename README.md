@@ -26,4 +26,4 @@ I detta projekt har jag lärt mig att:
 - Använda shutil-biblioteket för att kopiera filer och mappar.
 - Implementera exkluderingslogik för att undvika att vissa filer eller mappar inkluderas i backupen.
 
-# Tack för att du använder detta projekt! Om du har några frågor eller förslag, tveka inte att kontakta mig.
+### Tack för att du använder detta projekt! Om du har några frågor eller förslag, tveka inte att kontakta mig.
